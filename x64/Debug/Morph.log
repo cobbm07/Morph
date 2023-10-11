@@ -1,0 +1,65 @@
+﻿  asset_manager.cpp
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\transform_component.h(22,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\transform_component.h(23,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\keyboard_controller.h(25,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\keyboard_controller.h(30,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\keyboard_controller.h(35,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\collider_component.h(79,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\collider_component.h(80,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\collider_component.h(81,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\collider_component.h(82,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\tile_component.h(20,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\tile_component.h(21,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\tile_component.h(32,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\tile_component.h(33,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  driver.cpp
+  ECS.cpp
+  game.cpp
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\transform_component.h(22,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\transform_component.h(23,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\keyboard_controller.h(25,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\keyboard_controller.h(30,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\keyboard_controller.h(35,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\collider_component.h(79,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\collider_component.h(80,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\collider_component.h(81,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\collider_component.h(82,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\tile_component.h(20,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\tile_component.h(21,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\tile_component.h(32,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\tile_component.h(33,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\game.cpp(117,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\game.cpp(117,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\game.cpp(290,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\game.cpp(291,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\game.cpp(305,116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\game.cpp(305,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\ECS.h(101,33): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\game.cpp(73): message : see reference to function template instantiation 'T &Entity::add_component<Transform_Component,int,int,const int&,const int&,const int&>(int &&,int &&,const int &,const int &,const int &)' being compiled
+          with
+          [
+              T=Transform_Component
+          ]
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\ECS.h(101,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\ECS.h(101,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  map.cpp
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\transform_component.h(22,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\transform_component.h(23,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\keyboard_controller.h(25,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\keyboard_controller.h(30,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\keyboard_controller.h(35,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\collider_component.h(79,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\collider_component.h(80,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\collider_component.h(81,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\collider_component.h(82,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\tile_component.h(20,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\tile_component.h(21,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\tile_component.h(32,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shark\source\repos\Morph\Morph\Src\ECS\tile_component.h(33,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  vector2D.cpp
+  Generating Code...
+  Morph.vcxproj -> C:\Users\shark\source\repos\Morph\x64\Debug\Morph.exe

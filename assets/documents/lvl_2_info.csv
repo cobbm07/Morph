@@ -1,0 +1,8 @@
+Player,1
+300,1760
+Enemy,2
+120,792,water_enemy
+700,1760,lava_enemy
+Goal,2 
+25,900
+1750,200
